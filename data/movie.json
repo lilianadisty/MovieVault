@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Dadnapped",
+    "coverUrl": "https://image.tmdb.org/t/p/original/eoXXvbtVznGJlwIsgH2WUGmjNyz.jpg",
+    "synopsis": "Melissa has a bad case of sibling rivalry, only her competition is a fictional character in her father's best-selling novel about a teenage super spy. When her father is \"dadnapped\" by a group of overzealous fans, it's up to Melissa to help him by tapping her inner superhero.",
+    "releaseDate": "02/16/2009",
+    "duration": 224,
+    "rating": 9.38,
+    "isNowShowing": true
+  },
+  {
+    "id": 2,
+    "title": "The Last Exorcism",
+    "coverUrl": "https://image.tmdb.org/t/p/original/eOo9tgGjxdsQEgqc6g7E1NL8460.jpg",
+    "synopsis": "After years of performing “exorcisms” and taking believers’ money, Reverend Marcus travels to rural Louisiana with a film crew so he can dispel what he believes is the myth of demonic possession. The dynamic reverend is certain that this will be another routine “exorcism” on a disturbed religious fanatic but instead comes upon the blood-soaked farm of the Sweetzer family and a true evil he would have never thought imaginable.",
+    "releaseDate": "08/27/2010",
+    "duration": 180,
+    "rating": 5.7,
+    "isNowShowing": true
+  },
+  {
+    "id": 3,
+    "title": "Ginger Snaps 2: Unleashed",
+    "coverUrl": "https://image.tmdb.org/t/p/original/nTtyzQ1qFDJXLWvXX4wvOu0nYun.jpg",
+    "synopsis": "Brigitte has escaped the confines of Bailey Downs but she's not alone. Another werewolf is tailing her closely and her sister's specter haunts her. An overdose of Monkshood - the poison that is keeping her transformation at bay - leads to her being incarcerated in a rehabilitation clinic for drug addicts where her only friend is an eccentric young girl by the name of Ghost.",
+    "releaseDate": "01/30/2004",
+    "duration": 300,
+    "rating": 14.05,
+    "isNowShowing": true
+  },
+  {
+    "id": 4,
+    "title": "The Green Hornet",
+    "coverUrl": "https://image.tmdb.org/t/p/original/q1fXWEoZXogYjAUy32pUc6NL2IH.jpg",
+    "synopsis": "Britt Reid, the heir to the largest newspaper fortune in Los Angeles, is a spoiled playboy who has been, thus far, happy to lead an aimless life. After his father dies, Britt meets Kato, a resourceful company employee. Realizing that they have the talent and resources to make something of their lives, Britt and Kato join forces as costumed crime-fighters to bring down the city's most-powerful criminal, Chudnofsky.",
+    "releaseDate": "01/12/2011",
+    "duration": 120,
+    "rating": 5.6,
+    "isNowShowing": true
+  },
+  {
+    "id": 5,
+    "title": "Age of Tomorrow",
+    "coverUrl": "https://image.tmdb.org/t/p/original/rij2GSSXbhNLCFdvJN8YmRRD2i3.jpg",
+    "synopsis": "Mankind must fight to survive as Earth is invaded by hostile UFOs bent on destroying the planet. As the epic battle wages on, astronauts sneak aboard the mothership where they discover a portal to the aliens' home world. They manage to alert Earth before they are brutally murdered. Left with no other choice, Earth sends an elite military team of science and combat specialists through the portal where they attempt to stop the invasion from the inside out.",
+    "releaseDate": "06/10/2014",
+    "duration": 64,
+    "rating": 5.3,
+    "isNowShowing": false
+  },
+  {
+    "id": 6,
+    "title": "The Curse of the Jade Scorpion",
+    "coverUrl": "https://image.tmdb.org/t/p/original/cHrHnkFoi7nrZCzAv7nFFTMdMCJ.jpg",
+    "synopsis": "CW Briggs is a veteran insurance investigator, with many successes. Betty Ann Fitzgerald is a new employee in the company he works for, with the task of reorganizing the office. They don't like each other - or at least that's what they think. During a night out with the rest of the office employees, they go to watch Voltan, a magician who secretly hypnotizes both of them.",
+    "releaseDate": "08/05/2001",
+    "duration": 100,
+    "rating": 2.3,
+    "isNowShowing": false
+  },
+  {
+    "id": 7,
+    "title": "13th",
+    "coverUrl": "https://image.tmdb.org/t/p/original/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
+    "synopsis": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+    "releaseDate": "01/07/2016",
+    "duration": 110,
+    "rating": 8.9,
+    "isNowShowing": true
+  }
+]
