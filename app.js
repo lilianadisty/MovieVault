@@ -11,7 +11,7 @@ const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 const app = express();
 
-const port = 3000;
+const PORT = process.env.PORT || 3000;
 const cors = require("cors");
 
 const httpServer = createServer(app);
@@ -111,6 +111,6 @@ app.patch(
 );
 
 app.use(errorHandler);
-httpServer.listen(port, () => {
-  console.log(`Server can be access in http://localhost:${port}`);
+httpServer.listen(PORT, () => {
+  console.log(`Server can be access in http://localhost:${PORT}`);
 });
