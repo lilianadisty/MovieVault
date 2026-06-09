@@ -15,11 +15,19 @@ const PORT = process.env.PORT || 3000;
 const cors = require("cors");
 
 const httpServer = createServer(app);
+
 const io = new Server(httpServer, {
   cors: {
-    origin: "http://localhost:5173",
+    origin: "*",
+    methods: ["GET", "POST"],
   },
 });
+
+// const io = new Server(httpServer, {
+//   cors: {
+//     origin: "http://localhost:5173",
+//   },
+// });
 
 let users = [];
 // let getAlias = (email) => {
@@ -111,6 +119,15 @@ app.patch(
 );
 
 app.use(errorHandler);
-httpServer.listen(PORT, () => {
+
+// app.use((req, res, next) => {
+//   console.log("HOST:", req.headers.host);
+//   next();
+// });
+// httpServer.listen(PORT, () => {
+//   console.log(`Server can be access in http://localhost:${PORT}`);
+// });
+
+httpServer.listen(PORT, "0.0.0.0", () => {
   console.log(`Server can be access in http://localhost:${PORT}`);
 });
